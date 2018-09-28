@@ -1,0 +1,75 @@
+Curso de Python ministrado pelo instrutor Cláudio Rogério Carvalho Filho
+
+eXcript
+excriptbrasil@gmail.com 
+http://excript.com/curso-de-python.html
+
+- Curso de Python	
+- Primeira Aula de Python	
+- Como Instalar o Python no Windows	
+- Características do Python	
+- Recursos do Python	
+- IDLE - Modo Interativo do Python	
+- Instalando o PyCharm no Windows	
+- Primeiro programa em Python	
+- Comentários em Python	
+- Indentação do código Python	
+- Variáveis em Python	
+- Características das Variáveis em Python	
+- Nomenclatura das Variáveis em Python	
+- Tipos de dados em Python	
+- Variáveis do tipo Ponto Flutuante do Python	
+- Entrada de Dados em Python	
+- Operadores Aritméticos do Python	
+- Módulo da Divisão em Python	
+- Potenciação e Radiciação em Python	
+- Operadores Relacionais do Python	
+- Tomada de Decisão em Python	
+- Estrutura if e else em Python	
+- Depurando código Python	
+- Operadores Relacionais Compostos do Python	
+- Operadores Relacionais na Prática em Python	
+- Operadores Lógicos em Python	
+- Blocos de Instrução em Python	
+- Blocos de Instrução em Python (Parte II)	
+- Blocos de Instrução Python na Prática	
+- Escopo de Nomes em Python	
+- Estrutura de Atribuição Simples do Python	
+- Atribuição Múltipla em Python	
+- Operadores de Atribuição Compostos do Python	
+- Atribuição Condicional em Python	
+- Iteração em Python	
+- Laços de Repetição do Python	
+- Estrutura de repetição while em Python	
+- A instrução for em Python	
+- A função range() do Python	
+- O for loop e a função range() do Python	
+- Instrução break do Python	
+- Instrução continue em Python	
+- Estruturas de Dados Lista em Python	
+- Lista, Pilha, Array, Set em Python	
+- A classe list do Python	
+- Classe list - Conceitos Avançados do Python	
+- Funções da Classe list do Python	
+- Iteração de Listas em Python	
+- Fatiando Listas em Python	
+- Incluindo, Alterando e Excluindo Elementos no Python	
+- Ordenamento de Listas em Python	
+- Quantidade de Itens em Python	
+- Tuplas em Python	
+- Operadores in e not in do Python	
+- Operadores and, or e in do Python	
+- Exemplo com Operador in em Python	
+- Introdução às Strings em Python	
+- Fatiando Strings com Python	
+- Funções das Strings no Python	
+- Comparação de Strings em Python	
+- Iterando Strings em Python	
+- Introdução aos Dicionários do Python	
+- Dicionários na Prática com Python	
+- Funções dos Dicionários no Python	
+- Introdução às Funções em Python	
+- Parâmetros de Função em Python	
+- Parâmetros default em Python	
+- Argumento de Função Nomeado vs Posicional em Python	
+- Retornando Valores pelas Funções em Python
